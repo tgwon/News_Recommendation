@@ -14,6 +14,10 @@ Streamlit을 활용하여 서비스를 구축함으로써 분석 결과의 활�
 
 <img src="https://github.com/tgwon/News_Recommendation/assets/102985590/4beb17aa-f2fe-4c35-926b-b51301dd8354"  width="760" height="430">
 
+<br/><br/>
+
+<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/0f356a3b-0702-4988-8e51-69f3cc828969"  width="650" height="700">
+
 
 ## 📚 Data
 client_feature_vector.csv : 제공 받은 BC카드 고객 결제 데이터를 분석하여 도출한 고객 Feature Vector
