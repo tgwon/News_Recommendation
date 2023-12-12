@@ -7,17 +7,11 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 - Streamlit을 활용한 WebPage 구축을 통해 분석 결과의 활용성을 높혔다.
 
-
-
-<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/63e26b89-bdf0-4b07-893e-5d866b2dac02"  width="760" height="430">
-
-<br/><br/>
-
+##
 <img src="https://github.com/tgwon/News_Recommendation/assets/102985590/4beb17aa-f2fe-4c35-926b-b51301dd8354"  width="760" height="430">
 
-<br/><br/>
-
-<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/0f356a3b-0702-4988-8e51-69f3cc828969"  width="650" height="700">
+##
+<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/0f356a3b-0702-4988-8e51-69f3cc828969"  width="700" height="700">
 
 
 ## 📚 Data
