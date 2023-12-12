@@ -22,5 +22,5 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 ## 🏆 최종결과
 - 뉴스 분류 정확도 84%
-- 제 5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상
+- 제5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상
 
