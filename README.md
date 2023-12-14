@@ -7,6 +7,8 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 - Streamlit을 활용한 WebPage 구축을 통해 분석 결과의 활용성을 높혔다.
 
+- [본 서비스로 한국소비자원 실증분석 참여](https://github.com/tgwon/Streamlit_kca)
+
 ##
 <img src="https://github.com/tgwon/News_Recommendation/assets/102985590/4beb17aa-f2fe-4c35-926b-b51301dd8354"  width="760" height="430">
 
